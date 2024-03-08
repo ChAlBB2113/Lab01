@@ -1,4 +1,10 @@
 Paolo 4
-Lucia 1
+Ale 3
+Ale 3
 Mario 1
+Lucia 1
+Ale 1
 Giuseppe 0
+Ale 0
+Ale 0
+Ale 0
