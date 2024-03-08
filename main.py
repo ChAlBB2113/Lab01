@@ -121,6 +121,7 @@ def main(): #dopo il main devo indentare
 
     listaGiocatori.append(giocatore)
 
+
     listaGiocatori.sort(reverse=True)
 
 #quando apro un file in scrittura e ci scrivo sopra automaticamente cio che c era scritto viene sovrascritto
