@@ -123,7 +123,7 @@ def main(): #dopo il main devo indentare
 
     listaGiocatori.sort(reverse=True)
 
-
+#quando apro un file in scrittura e ci scrivo sopra automaticamente cio che c era scritto viene sovrascritto
     try:
         filePunti= open("punti.txt", "w")
         for i in listaGiocatori:
